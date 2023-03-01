@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="header" align="center"> <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> </div>
+
 Simon here.... He/Him😀, a MERN Stack Developer... much in love with JavaScript, plus the extra addition of python and C. I'm building projects to improve my backend skills and mastery with MongoDB, Node and Express. Definitely open to collaborations on Frontend(React, Vue and Tailwind) projects, also a fan of cool UI design artictechure, I read a lot, send me books too if you don't mind😉
 Here's how you can contact me:
 petersimon0730@gmail.com
