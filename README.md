@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center"> <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> </div>
+<div id="badges"> <a href="https://www.linkedin.com/in/peter-simon-99b317220"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> 
+<a href="https://twitter.com/GoofyWithRae?t=N9XkKPR1OmPkAWCzqySF1w&s=09"> <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> </a> 
+</div>
 
 Simon here.... He/Him😀, a MERN Stack Developer... much in love with JavaScript, plus the extra addition of python and C. I'm building projects to improve my backend skills and mastery with MongoDB, Node and Express. Definitely open to collaborations on Frontend(React, Vue and Tailwind) projects, also a fan of cool UI design artictechure, I read a lot, send me books too if you don't mind😉
 Here's how you can contact me:
