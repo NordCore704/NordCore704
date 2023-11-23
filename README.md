@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/GoofyWithRae?t=N9XkKPR1OmPkAWCzqySF1w&s=09"> <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> </a> 
 </div>
 
-Simon here.... He/Him😀, a MERN Stack Developer... much in love with JavaScript, plus the extra addition of python and C. I'm building projects to improve my backend skills and mastery with MongoDB, Node and Express. Definitely open to collaborations on Frontend(React, Vue and Tailwind) projects, also a fan of cool UI design artictechure, I read a lot, send me books too if you don't mind😉
+Simon here.... He/Him😀, a Frontend React(Next.js) Developer... much in love with JavaScript, plus the extra addition of python and C. Definitely open to collaborations on Frontend(React, Vue and Tailwind) projects, also a fan of cool UI design artictechure, I read a lot, send me books too if you don't mind😉
 Here's how you can contact me:
 petersimon0730@gmail.com
